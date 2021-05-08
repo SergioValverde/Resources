@@ -1,0 +1,468 @@
+https://www.hackerone.com/blog/become-a-successful-bug-bounty-hunter
+
+HTML
+https://developer.mozilla.org/es/docs/Learn/HTML
+https://www.codecademy.com/learn/learn-html
+https://developer.mozilla.org/es/docs/conflicting/Web/HTML/Element
+
+BurpSuite
+
+https://www.hacker101.com/playlists/burp_suite
+https://www.youtube.com/watch?v=vKudm1kDu8k
+https://www.bugcrowd.com/resources/webinars/introduction-to-burp-suite/
+https://github.com/bugcrowd/bugcrowd_university/blob/master/An_introduction_to_Burp_Suite/Bugcrowd%20University%20-%20Burp%20Suite%20Introduction.pdf
+
+Avanzado
+
+https://github.com/bugcrowd/bugcrowd_university/blob/master/Burp%20Suite%20Advanced/Bugcrowd%20University%20-%20Burp%20Suite%20Advanced.pdf
+https://www.bugcrowd.com/resources/webinars/advanced-burp-suite/
+https://www.youtube.com/watch?v=bm2csJKzLOo
+
+
+Extensiones:
+https://github.com/mdsecresearch/BurpSuiteSharpener
+https://www.hacker101.com/resources
+https://www.youtube.com/watch?v=0CU75vPfIS4
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/tools.md
+
+Metodologías
+
+Jason Hadix
+
+https://www.youtube.com/watch?v=p4JgIu1mceI v4 NahamCon Metodología
+https://www.youtube.com/watch?v=qLTe6Z10vj8 v4 hackerone Metodología	
+
+https://www.youtube.com/watch?v=gIz_yn0Uvb8  Red Team Village Metodología
+
+https://www.youtube.com/watch?v=uKWu6yhnhbQ Red Team Village Training
+https://twitter.com/Jhaddix/status/800872770896699392/photo/1
+https://www.youtube.com/c/jhaddix/videos
+https://www.youtube.com/watch?v=KEl_rSSqTtk&feature=emb_logo
+
+https://www.youtube.com/watch?v=8MhoDQqcJSc
+
+Nahamsec
+
+https://www.bugcrowd.com/resources/webinars/doing-recon-like-a-boss/
+https://www.youtube.com/watch?v=_GWUxADsZnY
+https://www.youtube.com/watch?v=4BtJic9TUCI
+https://www.youtube.com/watch?v=MIujSpuDtFY
+https://www.youtube.com/watch?v=UlZRm2KxQQs
+
+https://www.youtube.com/watch?v=amihlWTtkMA
+https://www.youtube.com/watch?v=ziF4rZ93kB0&feature=youtu.be
+
+Zseano
+
+https://www.youtube.com/watch?v=091zJCuWfZk
+https://www.youtube.com/watch?v=UH6O13hHf5M
+https://docs.google.com/presentation/d/1DAQ47VjIaQZ88Ly00eGPQupq79hAF9AAZstV7OVCY_8/mobilepresent#slide=id.p
+https://www.youtube.com/watch?v=6Kr9mN0UnGw
+
+Frans Rosén (@FransRosen)
+
+https://www.youtube.com/watch?v=jTanLdLj5dY
+https://www.youtube.com/watch?v=oJCCOnF25JU
+https://www.slideshare.net/fransrosen/attacking-modern-web-technologies
+https://www.youtube.com/watch?v=rAuuN0OohJc
+
+Tom Hudson (Tomnomnom)
+https://danielmiessler.com/blog/a-tomnomnom-tools-primer/
+https://blog.detectify.com/2020/07/03/undetected-e-04-tom-hudson-hacking-things-back-together/
+https://www.youtube.com/watch?v=nPK0x3jU4wQ
+
+Top – 10 técnicas de Hacking 2017 - 2018 - 2019 – 2020
+
+https://portswigger.net/research/top-10-web-hacking-techniques
+2017
+https://portswigger.net/research/top-10-web-hacking-techniques-of-2017
+2018
+https://portswigger.net/research/top-10-web-hacking-techniques-of-2018
+2019
+https://portswigger.net/research/top-10-web-hacking-techniques-of-2019
+2020
+https://portswigger.net/daily-swig/h2c-smuggling-named-top-web-hacking-technique-of-2020
+2021
+https://www.bugcrowd.com/blog/common-bugs-of-2021/
+
+
+
+Google Partner Program – GPP Top 10
+https://labs.bishopfox.com/industry-blog/google-partner-program-gpp-top-10?utm_campaign=2021_Posts_Blog_Industry&utm_content=152483046&utm_medium=social&utm_source=twitter&hss_channel=tw-1376153113
+
+TOP 10 HackerOne
+Top 10 – 2019
+
+https://www.hackerone.com/blog/hackerone-top-10-most-impactful-and-rewarded-vulnerability-types
+1. Cross-site Scripting
+2. Improper Authentication
+3. Information Disclosure
+4. Privilege Escalation
+5. SQL Injection
+6. Code Injection
+7. Server-Side Request Forgery (SSRF)
+8. Insecure Direct Object Reference (IDOR)
+9. Improper Access Control 
+10. Cross-Site Request Forgery (CSRF)
+
+Top 10 –2020
+https://www.hackerone.com/blog/organizations-paid-hackers-235-million-these-10-vulnerabilities-one-year-1
+https://www.hackerone.com/top-ten-vulnerabilities
+
+1.	XSS
+2.	Improper Access Control - Generic
+3.	Information Disclosure
+4.	Server-Side Request Forgery (SSRF)
+5.	Insecure Direct Object Reference (IDOR)
+6.	Privilege Escalation
+7.	SQL Injection
+8.	Improper Authentication - Generic
+9.	Code Injection
+10.	Cross-Site Request Forgery (CSRF)
+
+Vulnerabilidades
+
+Write Ups:
+https://pentester.land/list-of-bug-bounty-writeups.html
+https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+
+1.	Open Redirect Vulnerailities
+
+Definicion
+https://blog.intigriti.com/hackademy/open-redirect/
+https://sites.google.com/site/bughunteruniversity/nonvuln/open-redirect
+https://www.bugbountyhunter.com/vulnerability/?type=open_redirect
+https://s0cket7.com/open-redirect-vulnerability/
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/understanding-and-discovering-open-redirect-vulnerabilities/
+https://www.youtube.com/watch?v=4Jk_I-cw4WE
+https://nostarch.com/download/samples/RealWorldBugHunting_Ch02_Sample.pdf
+https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html
+https://developers.google.com/search/blog/2009/01/open-redirect-urls-is-your-site-being
+https://blog.detectify.com/2019/05/16/the-real-impact-of-an-open-redirect/
+
+
+Write UP
+https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a
+https://www.youtube.com/playlist?list=PLy8t3TIwSh3tMEAjyldNNbjtTmm5G7kFl
+
+¿Comó encontrarla?
+TIPS
+https://gowsundar.gitbook.io/book-of-bugbounty-tips/open-redirect
+https://book.hacktricks.xyz/pentesting-web/open-redirect
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
+https://github.com/lutfumertceylan/top25-parameter/blob/master/openredirect-parameters.txt
+
+
+
+
+TIPS:
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
+2.	HTML Injection
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+https://github.com/ngalongc/bug-bounty-reference#http-header-injection
+
+
+
+3.	HTTP Parameter Pollution
+Definicion
+Write UP
+https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-85edc0805654
+https://smaranchand.com.np/2019/06/parameter-pollution-issue-in-api-resulting-xxx/
+
+¿Comó encontrarla?
+TIPS
+https://book.hacktricks.xyz/pentesting-web/parameter-pollution
+https://gowsundar.gitbook.io/book-of-bugbounty-tips/parameter-pollution
+
+
+4.	HTTP Request Smuggling
+Definicion
+Write UP
+¿Comó encontrarla?
+https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142
+https://book.hacktricks.xyz/pentesting-web/http-request-smuggling
+https://blog.detectify.com/2020/05/28/hiding-in-plain-sight-http-request-smuggling/
+
+https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2
+
+TIPS
+
+HTTP response splitting
+https://blog.detectify.com/2019/06/14/http-response-splitting-exploitations-and-mitigations/
+
+
+5.	Cross-Site Request Forgery
+Definicion
+Write UP
+¿Comó encontrarla?
+https://www.youtube.com/watch?v=ImqLlFMQrwQ
+https://www.youtube.com/watch?v=SA-GOrAP2g0
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
+https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery
+https://github.com/ngalongc/bug-bounty-reference#csrf
+https://www.bugbountyhunter.com/vulnerability/?type=csrf
+6.	Command Injection
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+
+https://www.bugbountyhunter.com/vulnerability/?type=command_injection
+
+7.	CRLF Injection
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CRLF%20Injection
+https://book.hacktricks.xyz/pentesting-web/crlf-0d-0a
+
+
+8.	Cross-Site Scripting *********
+Definicion
+Write UP
+https://blog.detectify.com/2012/12/30/how-i-hacked-facebook-and-received-a-3500-usd-facebook-bug-bounty/
+https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075
+
+¿Comó encontrarla?
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md#Starting-Out-&-Questions
+
+https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss
+https://www.bugbountyhunter.com/vulnerability/?type=xss	
+https://github.com/bugcrowd/bugcrowd_university/blob/master/Cross_site_scripting/Bugcrowd%20University%20-%20Cross%20Site%20Scripting.pdf
+
+https://www.bugcrowd.com/resources/webinars/cross-site-scripting/
+https://www.youtube.com/watch?v=IWbmP0Z-yQg
+
+https://www.hacker101.com/sessions/xss
+https://brutelogic.com.br/blog/the-7-main-xss-cases-everyone-should-know/
+https://www.youtube.com/watch?v=EoaDgUgS6QA
+TIPS
+https://github.com/lutfumertceylan/top25-parameter/blob/master/xss-parameters.txt
+
+
+9.	Template Injection
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+https://gosecure.github.io/template-injection-workshop/#0
+https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68
+https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
+
+
+
+https://github.com/ngalongc/bug-bounty-reference#xssi
+10.	SQL Injection
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+https://github.com/ngalongc/bug-bounty-reference#sql-injection
+https://www.bugbountyhunter.com/vulnerability/?type=sql
+https://github.com/lutfumertceylan/top25-parameter/blob/master/SQLi-parameters.txt
+ 
+
+
+11.	Server Side Request Forgery
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+https://github.com/ngalongc/bug-bounty-reference#server-side-request-forgery-ssrf
+https://www.bugbountyhunter.com/vulnerability/?type=ssrf
+https://github.com/bugcrowd/bugcrowd_university/blob/master/Server%20Side%20Request%20Forgery/Bugcrowd%20University%20-%20Server%20Side%20Request%20Forgery.pdf
+https://www.bugcrowd.com/resources/webinars/server-side-request-forgery/
+https://github.com/lutfumertceylan/top25-parameter/blob/master/ssrf-parameters.txt
+https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/
+https://infosecwriteups.com/my-first-bug-blind-ssrf-through-profile-picture-upload-72f00fd27bc6
+
+
+12.	XML External Entity Vulnerability
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+https://github.com/ngalongc/bug-bounty-reference#xxe
+https://github.com/bugcrowd/bugcrowd_university/blob/master/XML%20External%20Entity%20Injection/Bugcrowd%20University%20-%20XML%20External%20Entity%20Injection.pdf
+https://www.bugcrowd.com/resources/webinars/xml-external-entity-injection/
+https://gosecure.github.io/xxe-workshop/#0
+https://blog.detectify.com/2018/04/17/owasp-top-10-xxe/
+
+
+13.	Remote Code Execution
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+https://github.com/lutfumertceylan/top25-parameter/blob/master/rce-paramaters-get-based.txt
+
+https://github.com/ngalongc/bug-bounty-reference#remote-code-execution
+14.	Memory
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+15.	Sub Domain Takeover
+Definición
+https://www.youtube.com/watch?v=q_A8aXLO1gA
+https://www.hackerone.com/blog/Guide-Subdomain-Takeovers
+
+
+Write UP
+¿Comó encontrarla?
+
+https://github.com/ngalongc/bug-bounty-reference#email-related
+TIPS
+
+
+16.	Race Conditions
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+
+https://github.com/ngalongc/bug-bounty-reference#race-condition
+17.	Insecure Direct Object References
+Definicion
+Write UP
+¿Comó encontrarla?
+https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/
+https://www.youtube.com/watch?v=3K1-a7dnA60
+https://blog.detectify.com/2019/07/03/lerhan-bypassing-idor-protection-with-url-shorteners/
+https://www.bugbountyhunter.com/vulnerability/?type=idor
+https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
+https://blog.usejournal.com/a-less-known-attack-vector-second-order-idor-attacks-14468009781a
+
+https://github.com/ngalongc/bug-bounty-reference#direct-object-reference-idor
+
+https://github.com/bugcrowd/bugcrowd_university/blob/master/Access_control_testing/Bugcrowd%20University%20-%20Broken%20Access%20Control%20Testing.pdf
+
+https://www.bugcrowd.com/resources/webinars/broken-access-control-testing/
+https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor/
+
+https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/
+https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab
+https://www.securecoding.com/blog/how-to-prevent-idor-attacks/
+
+TIPS
+
+
+18.	authentication-bypass
+Definicion
+Write UP
+¿Comó encontrarla?
+
+https://github.com/ngalongc/bug-bounty-reference#authentication-bypass
+https://book.hacktricks.xyz/pentesting-web/2fa-bypass
+ 
+
+TIPS
+
+19.	OAuth
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+20.	Application Logic Vulnerabilities
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+21.	Stealing Access Token
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+
+
+https://github.com/ngalongc/bug-bounty-reference#stealing-access-token
+
+22.	File Upload
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+
+
+https://github.com/ngalongc/bug-bounty-reference#unrestricted-file-upload
+
+23.	Business Logic Flaw
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+https://blog.detectify.com/2020/07/08/common-security-misconfigurations-and-remediations/
+
+
+https://github.com/ngalongc/bug-bounty-reference#business-logic-flaw
+
+24.	Broken Access Control Testing
+Definicion
+Write UP
+¿Comó encontrarla?
+TIPS
+
+
+
+25.	Sensitive Data Exposure
+Definición
+
+Write UP
+¿Comó encontrarla?
+https://www.youtube.com/watch?v=l0YsEk_59fQ
+
+https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
+https://github.com/bugcrowd/bugcrowd_university/blob/master/GitHub%20Recon/Bugcrowd%20University%20-%20GitHub%20Recon%20and%20Sensitive%20Data%20Exposure.pdf
+https://www.bugcrowd.com/resources/webinars/github-recon-and-sensitive-data-exposure/
+https://www.youtube.com/watch?v=W5htGHdIc-M
+TIPS
+ 
+
+
+26.	CORS
+Definición
+Write UP
+¿Comó encontrarla?
+
+TIPS
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+https://book.hacktricks.xyz/pentesting-web/cors-bypass
+https://blog.detectify.com/2018/04/26/cors-misconfigurations-explained/
+https://httptoolkit.tech/will-it-cors/
+https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor/
+
+
+
+
+HERRAMIENTAS
+
+https://labs.bishopfox.com/industry-blog/pen-testing-tools-were-thankful-for-in-2020
+https://github.com/vavkamil?after=Y3Vyc29yOnYyOpK5MjAyMS0wMS0xOVQyMDoxNDozNSswMTowMM4PUIzy&tab=stars
+https://www.offensity.com/de/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/
+https://github.com/redhuntlabs/Awesome-Asset-Discovery
+https://github.com/vavkamil/awesome-bugbounty-tools
+https://github.com/JonCooperWorks/httpfuzz
+https://awesomeopensource.com/projects/bugbounty
+
+
