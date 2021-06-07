@@ -1,4 +1,3 @@
-Fuentes de información interesantes.
 
 Estas fuentes de información, al menos, las más enfocadas a temas de RT, se encuentran alojadas en la siguiente url. (actualizado)
 
