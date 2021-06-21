@@ -1,19 +1,21 @@
+
 ProcessInjection
-  https://www.layakk.com/blog/practical-examples-with-fridafrida-vs-anti-debug-techniques-on-windows-i/
-  https://pwnedcoffee.com/blog/red-team-tactics/bypassing-antivirus-using-direct-system-calls/
-  https://attack.mitre.org/techniques/T1055/
-  https://www.elastic.co/es/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
-  https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf
-  https://posts.specterops.io/engineering-process-injection-detections-part-1-research-951e96ad3c85
-  https://github.com/theevilbit/injection
-  https://vx-underground.org/papers/VXUG/Mirrors/Injection/Balaoura_MTE1623.pdf
-  https://medium.com/@ozan.unal/process-injection-techniques-bc6396929740
-  https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf
-  https://vx-underground.org/papers/VXUG/Mirrors/Injection/Balaoura_MTE1623.pdf
-  https://vx-underground.org/papers/VXUG/Mirrors/Injection/medium.com-Process%20Injection%20Techniques.pdf
-  https://bsidescordoba.org/slides/Hunting_For_Memory_Resident_Malware_BSides_Cordoba_2019.pdf
-  https://www.blackhat.com/docs/asia-17/materials/asia-17-KA-What-Malware-Authors-Don%27t-Want-You-To-Know-Evasive-Hollow-Process-Injection-wp.pdf
-  https://www.franckjeannot.com/wp-content/uploads/doppelganging_technique.pdf
-  https://www.blackhat.com/docs/eu-17/materials/eu-17-Liberman-Lost-In-Transaction-Process-Doppelganging.pdf
-  https://github.com/hasherezade/transacted_hollowing
-https://www.youtube.com/playlist?list=PLRfm-tDkqT_4nRJdN6dodLMy2zq9OBbRn
+https://www.layakk.com/blog/practical-examples-with-fridafrida-vs-anti-debug-techniques-on-windows-i/
+https://pwnedcoffee.com/blog/red-team-tactics/bypassing-antivirus-using-direct-system-calls/
+https://attack.mitre.org/techniques/T1055/
+https://www.elastic.co/es/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
+https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf
+https://posts.specterops.io/engineering-process-injection-detections-part-1-research-951e96ad3c85
+https://github.com/theevilbit/injection
+https://vx-underground.org/papers/VXUG/Mirrors/Injection/Balaoura_MTE1623.pdf
+https://medium.com/@ozan.unal/process-injection-techniques-bc6396929740
+https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf
+https://vx-underground.org/papers/VXUG/Mirrors/Injection/Balaoura_MTE1623.pdf
+https://vx-underground.org/papers/VXUG/Mirrors/Injection/medium.com-Process%20Injection%20Techniques.pdf
+https://bsidescordoba.org/slides/Hunting_For_Memory_Resident_Malware_BSides_Cordoba_2019.pdf
+https://www.blackhat.com/docs/asia-17/materials/asia-17-KA-What-Malware-Authors-Don%27t-Want-You-To-Know-Evasive-Hollow-Process-Injection-wp.pdf
+https://www.franckjeannot.com/wp-content/uploads/doppelganging_technique.pdf
+https://www.blackhat.com/docs/eu-17/materials/eu-17-Liberman-Lost-In-Transaction-Process-Doppelganging.pdf
+https://github.com/hasherezade/transacted_hollowing
+https://vimeo.com/527185697
+https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All.pdf
