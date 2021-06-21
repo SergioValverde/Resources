@@ -5,7 +5,7 @@ https://cse.google.es/cse?cx=3fb2145535e8a0062
 
 Está anexado github, por lo tanto, saldrá en muchas búsquedas, podemos filtrar con el dork -github.com
 
-Contiene un total de 64 fuentes, en continuo actualización.
+Contiene un total de 67 fuentes, en continuo actualización.
 
 
 Para WEB:
