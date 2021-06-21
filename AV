@@ -1,18 +1,27 @@
-
-  https://0x00sec.org/t/antivirus-runtime-bypass/25574/13
-  https://0x00sec.org/t/my-antivirus-evasion-journey/25744
-  https://books.google.es/books?id=bG_Aqb6iOUYC&pg=PA852&lpg=PA852&dq=InstallUtil.exe+apts&source=bl&ots=PFP3xGkHx7&sig=ACfU3U10T0Kxts46-NNRmbOb-NHwZPT7Bw&hl=es&sa=X&ved=2ahUKEwiJ96b21JHxAhVITBoKHQksCQ4Q6AEwB3oECAgQAw#v=onepage&q=InstallUtil.exe%20apts&f=false
-  https://www.isaca.org/resources/isaca-journal/issues/2017/volume-6/evasive-malware-tricks-how-malware-evades-detection-by-sandboxes
-  http://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FNT%20Objects%2FThread%2FNtDelayExecution.html
-  https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/
-  https://www.amazon.com/dp/B094YTJXTF/ref=redir_mobile_desktop?_encoding=UTF8&qid=&ref_=tmm_kin_swatch_0&sr=
-  https://securityintelligence.com/posts/invisibility-cloak-obfuscate-c-tools-evade-signature-based-detection/
-  https://evasions.checkpoint.com/techniques/hooks.html
-  https://0x00sec.org/t/if-you-want-to-get-good-at-malware-development/23466
-  https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/
-  https://www.youtube.com/watch?v=3jGi_ko5RqI
-  https://www.youtube.com/watch?v=lP2KF7_Kwxk
-  https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf
-  https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/
-    https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/
+AV
+https://0x00sec.org/t/antivirus-runtime-bypass/25574/13
+https://0x00sec.org/t/my-antivirus-evasion-journey/25744
+https://books.google.es/books?id=bG_Aqb6iOUYC&pg=PA852&lpg=PA852&dq=InstallUtil.exe+apts&source=bl&ots=PFP3xGkHx7&sig=ACfU3U10T0Kxts46-NNRmbOb-NHwZPT7Bw&hl=es&sa=X&ved=2ahUKEwiJ96b21JHxAhVITBoKHQksCQ4Q6AEwB3oECAgQAw#v=onepage&q=InstallUtil.exe%20apts&f=false
+https://www.isaca.org/resources/isaca-journal/issues/2017/volume-6/evasive-malware-tricks-how-malware-evades-detection-by-sandboxes
+http://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FNT%20Objects%2FThread%2FNtDelayExecution.html
+https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/
+https://www.amazon.com/dp/B094YTJXTF/ref=redir_mobile_desktop?_encoding=UTF8&qid=&ref_=tmm_kin_swatch_0&sr=
+https://securityintelligence.com/posts/invisibility-cloak-obfuscate-c-tools-evade-signature-based-detection/
+https://evasions.checkpoint.com/techniques/hooks.html
+https://0x00sec.org/t/if-you-want-to-get-good-at-malware-development/23466
+https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/
+https://www.youtube.com/watch?v=3jGi_ko5RqI
+https://www.youtube.com/watch?v=lP2KF7_Kwxk
+https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf
+https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/
+https://nagarrosecurity.com/blog/evasive-shellcode-launchers
+https://www.youtube.com/watch?v=d_Z_WV9fp9Q
+https://res-4.cloudinary.com/eventpower/image/upload/v1/19ncs/presentation_files/sao3ktg3tjrhairwd7hb.pptx.pdf
+https://github.com/D3VI5H4/Antivirus-Artifacts
+https://payl0ad.run/blog/2019/06/24/The_Limits_of_EDR_Threat_Hunting.html
+https://github.com/0xVIC/C_SHARP
+https://www.youtube.com/watch?v=wHBU8lOE0T4
+https://ethicalchaos.dev/2020/05/27/lets-create-an-edr-and-bypass-it-part-1/
+https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa
+https://www.youtube.com/playlist?list=PL9HO6M_MU2nc5Q31qd2CwpZ8J4KFMhgnK
 
