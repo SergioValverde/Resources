@@ -1,32 +1,38 @@
-
-LINKSInteresantes  https://github.com/mvelazc0/defcon27_csharp_workshop
-  https://makosecblog.com/malware-dev/detecting-dll-unhooking/
-  https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/
-  https://www.tutorialspoint.com/system-calls-in-unix-and-windows
-  https://v3ded.github.io/redteam/abusing-lnk-features-for-initial-access-and-persistence
-  https://twitter.com/lengyi13/status/1398296409753849867
-  http://jackson-t.ca/ooda-loops.html
-  https://www.trustedsec.com/events/video-series-building-your-ttp-arsenal-know-thy-self/
-  https://mohamed-fakroud.gitbook.io/t3nb3w/shellcoding/leveraging-from-pe-parsing-technique-to-write-x86-shellcode
-  https://outflank.nl/blog/2018/10/06/old-school-evil-excel-4-0-macros-xlm/
-  https://chaah.awankloud.my/redteaming-tips-creating-a-hidden-user/
-  https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/
-  https://github.com/waleedassar/ProcessExplorer_Hidden_DllName
-  https://milosilo.com/hacking/microsoft-teams-proxy-dll-hijacking/
-  https://hausec.com/2019/08/12/offensive-lateral-movement/
-  https://www.exploit-db.com/papers/41914
-  https://www.tarlogic.com/en/blog/how-kerberos-works/
-  https://www.trustedsec.com/blog/discovering-the-anti-virus-signature-and-bypassing-it/
-  https://www.rapid7.com/blog/post/2019/09/05/this-one-time-on-a-pen-test-your-mouse-is-my-keyboard/
-  http://mg.lol/blog/
-  https://0xthirteen.com/2020/01/27/move-faster-stay-longer/
-  https://cobbr.io/SharpSploit.html
-  https://www.youtube.com/watch?v=dU6KG221MaM&feature=youtu.be
-  https://www.youtube.com/watch?v=zXmZnU2GdVk
-  https://www.solomonsklash.io/archives.html
-  https://www.youtube.com/watch?v=AyVgIttiUpQ
-  https://www.securityartwork.es/2020/10/12/sandbox-evasion-identifying-blue-teams/
-  https://www.youtube.com/playlist?list=PLRfm-tDkqT_4nRJdN6dodLMy2zq9OBbRn
-  https://securityintelligence.com/posts/invisibility-cloak-obfuscate-c-tools-evade-signature-based-detection/
-  https://www.youtube.com/watch?v=m2NA2yneQ3c
-  https://www.youtube.com/watch?v=7nH1apGLINg
+LINKSInteresantes
+https://github.com/mvelazc0/defcon27_csharp_workshop
+https://makosecblog.com/malware-dev/detecting-dll-unhooking/
+https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/
+https://www.tutorialspoint.com/system-calls-in-unix-and-windows
+https://v3ded.github.io/redteam/abusing-lnk-features-for-initial-access-and-persistence
+https://twitter.com/lengyi13/status/1398296409753849867
+http://jackson-t.ca/ooda-loops.html
+https://www.trustedsec.com/events/video-series-building-your-ttp-arsenal-know-thy-self/
+https://mohamed-fakroud.gitbook.io/t3nb3w/shellcoding/leveraging-from-pe-parsing-technique-to-write-x86-shellcode
+https://outflank.nl/blog/2018/10/06/old-school-evil-excel-4-0-macros-xlm/
+https://chaah.awankloud.my/redteaming-tips-creating-a-hidden-user/
+https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/
+https://github.com/waleedassar/ProcessExplorer_Hidden_DllName
+https://milosilo.com/hacking/microsoft-teams-proxy-dll-hijacking/
+https://hausec.com/2019/08/12/offensive-lateral-movement/
+https://www.exploit-db.com/papers/41914
+https://www.tarlogic.com/en/blog/how-kerberos-works/
+https://www.trustedsec.com/blog/discovering-the-anti-virus-signature-and-bypassing-it/
+https://www.rapid7.com/blog/post/2019/09/05/this-one-time-on-a-pen-test-your-mouse-is-my-keyboard/
+http://mg.lol/blog/
+https://0xthirteen.com/2020/01/27/move-faster-stay-longer/
+https://cobbr.io/SharpSploit.html
+https://www.youtube.com/watch?v=dU6KG221MaM&feature=youtu.be
+https://www.youtube.com/watch?v=zXmZnU2GdVk
+https://www.solomonsklash.io/archives.html
+https://www.youtube.com/watch?v=AyVgIttiUpQ
+https://www.securityartwork.es/2020/10/12/sandbox-evasion-identifying-blue-teams/
+https://www.youtube.com/playlist?list=PLRfm-tDkqT_4nRJdN6dodLMy2zq9OBbRn
+https://securityintelligence.com/posts/invisibility-cloak-obfuscate-c-tools-evade-signature-based-detection/
+https://www.youtube.com/watch?v=m2NA2yneQ3c
+https://www.youtube.com/watch?v=7nH1apGLINg
+https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/
+https://www.youtube.com/watch?v=5E5BFDyfzuM
+https://www.youtube.com/watch?v=5E5BFDyfzuM
+https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf
+https://www.irongeek.com/i.php?page=videos/derbycon9/2-12-red-team-methodology-a-naked-look-jason-lang
+https://blog.securehat.co.uk/process-injection/shellcode-execution-via-enumsystemlocala
