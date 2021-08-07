@@ -25,3 +25,43 @@ https://ethicalchaos.dev/2020/05/27/lets-create-an-edr-and-bypass-it-part-1/
 https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa
 https://www.youtube.com/playlist?list=PL9HO6M_MU2nc5Q31qd2CwpZ8J4KFMhgnK
 
+AV
+  https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/
+  https://securityintelligence.com/posts/invisibility-cloak-obfuscate-c-tools-evade-signature-based-detection/
+  https://evasions.checkpoint.com/techniques/hooks.html
+  https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/
+  https://www.youtube.com/watch?v=3jGi_ko5RqI
+  https://www.youtube.com/watch?v=lP2KF7_Kwxk
+  https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf
+  https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/
+  https://www.youtube.com/watch?v=d_Z_WV9fp9Q
+  https://www.youtube.com/watch?v=8HMb9k_FOlU
+  https://res-4.cloudinary.com/eventpower/image/upload/v1/19ncs/presentation_files/sao3ktg3tjrhairwd7hb.pptx.pdf
+  https://github.com/D3VI5H4/Antivirus-Artifacts
+  https://payl0ad.run/blog/2019/06/24/The_Limits_of_EDR_Threat_Hunting.html
+  https://github.com/0xVIC/C_SHARP
+  https://www.youtube.com/watch?v=wHBU8lOE0T4
+  https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa
+  https://www.youtube.com/playlist?list=PL9HO6M_MU2nc5Q31qd2CwpZ8J4KFMhgnK
+  https://antiscan.me/
+  https://0xhop.github.io/evasion/2021/04/19/evasion-pt1/
+  https://arty-hlr.com/blog/2021/05/06/how-to-bypass-defender/
+  https://www.twitch.tv/videos/1110926576
+  
+  
+EDR
+  https://www.youtube.com/watch?v=6OF6lA0kCuY
+  https://www.blackhillsinfosec.com/wp-content/uploads/2020/09/SLIDES_SacredCashCowTipping2020.pdf
+  https://media.defcon.org/DEF%20CON%20China%201/DEF%20CON%20China%201%20presentations/DEF%20CON%20China%201.0%20-%20Presentations/DEF%20CON%20China%201.0%20-%20Aden-Wee-Jing-Chung-You-are-not-hiding-from-me-Updated-.NET.pdf
+  https://www.youtube.com/watch?v=h1OBjMx-R-M
+  https://www.f-secure.com/content/dam/f-secure/en/consulting/events/collaterals/digital/f-secure_attack-detection-fundamentals-workshop-1-windows_2021-04-07.pdf
+  https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf
+  https://deepsec.net/docs/Slides/2020/EPP:EDR-Unhooking_Their_Protections_Daniel_Feichter.pdf
+  https://sejalivre.org/vinicius/images/1/1a/Document.pdf
+  http://openaccess.uoc.edu/webapps/o2/bitstream/10609/107609/6/jbellovTFG1219memoria.pdf
+  https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3896-guia-140-anexo-b-2-edr-endpoint-detection-and-response/file.html
+  https://www.youtube.com/watch?v=lP2KF7_Kwxk
+  https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/
+  
+  
+  
