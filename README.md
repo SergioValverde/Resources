@@ -1,5 +1,5 @@
 
-Estas fuentes de información, al menos, las más enfocadas a temas de RT, se encuentran alojadas en la siguiente url. 
+Estas fuentes de información, se encuentran alojadas en la siguiente url. 
 
 https://cse.google.es/cse?cx=3fb2145535e8a0062
 
