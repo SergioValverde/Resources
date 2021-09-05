@@ -126,332 +126,390 @@ Write Ups:
 https://pentester.land/list-of-bug-bounty-writeups.html
 https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 
-1.	Open Redirect Vulnerailities
-
-Definicion
-https://blog.intigriti.com/hackademy/open-redirect/
-https://sites.google.com/site/bughunteruniversity/nonvuln/open-redirect
-https://www.bugbountyhunter.com/vulnerability/?type=open_redirect
-https://s0cket7.com/open-redirect-vulnerability/
-https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/understanding-and-discovering-open-redirect-vulnerabilities/
-https://www.youtube.com/watch?v=4Jk_I-cw4WE
-https://nostarch.com/download/samples/RealWorldBugHunting_Ch02_Sample.pdf
-https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html
-https://developers.google.com/search/blog/2009/01/open-redirect-urls-is-your-site-being
-https://blog.detectify.com/2019/05/16/the-real-impact-of-an-open-redirect/
-
-
-Write UP
-https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a
-https://www.youtube.com/playlist?list=PLy8t3TIwSh3tMEAjyldNNbjtTmm5G7kFl
-
-¿Comó encontrarla?
-TIPS
-https://gowsundar.gitbook.io/book-of-bugbounty-tips/open-redirect
-https://book.hacktricks.xyz/pentesting-web/open-redirect
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
-https://github.com/lutfumertceylan/top25-parameter/blob/master/openredirect-parameters.txt
-
-
-
-
-TIPS:
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
-2.	HTML Injection
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-https://github.com/ngalongc/bug-bounty-reference#http-header-injection
-
-
-
-3.	HTTP Parameter Pollution
-Definicion
-Write UP
-https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-85edc0805654
-https://smaranchand.com.np/2019/06/parameter-pollution-issue-in-api-resulting-xxx/
-
-¿Comó encontrarla?
-TIPS
-https://book.hacktricks.xyz/pentesting-web/parameter-pollution
-https://gowsundar.gitbook.io/book-of-bugbounty-tips/parameter-pollution
-
-
-4.	HTTP Request Smuggling
-Definicion
-Write UP
-¿Comó encontrarla?
-https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142
-https://book.hacktricks.xyz/pentesting-web/http-request-smuggling
-https://blog.detectify.com/2020/05/28/hiding-in-plain-sight-http-request-smuggling/
-
-https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2
-
-TIPS
-
-HTTP response splitting
-https://blog.detectify.com/2019/06/14/http-response-splitting-exploitations-and-mitigations/
-
-
-5.	Cross-Site Request Forgery
-Definicion
-Write UP
-¿Comó encontrarla?
-https://www.youtube.com/watch?v=ImqLlFMQrwQ
-https://www.youtube.com/watch?v=SA-GOrAP2g0
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
-https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery
-https://github.com/ngalongc/bug-bounty-reference#csrf
-https://www.bugbountyhunter.com/vulnerability/?type=csrf
-6.	Command Injection
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-
-https://www.bugbountyhunter.com/vulnerability/?type=command_injection
-
-7.	CRLF Injection
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CRLF%20Injection
-https://book.hacktricks.xyz/pentesting-web/crlf-0d-0a
-
-
-8.	Cross-Site Scripting *********
-Definicion
-Write UP
-https://blog.detectify.com/2012/12/30/how-i-hacked-facebook-and-received-a-3500-usd-facebook-bug-bounty/
-https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075
-
-¿Comó encontrarla?
-https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md#Starting-Out-&-Questions
-
-https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss
-https://www.bugbountyhunter.com/vulnerability/?type=xss	
-https://github.com/bugcrowd/bugcrowd_university/blob/master/Cross_site_scripting/Bugcrowd%20University%20-%20Cross%20Site%20Scripting.pdf
-
-https://www.bugcrowd.com/resources/webinars/cross-site-scripting/
-https://www.youtube.com/watch?v=IWbmP0Z-yQg
-
-https://www.hacker101.com/sessions/xss
-https://brutelogic.com.br/blog/the-7-main-xss-cases-everyone-should-know/
-https://www.youtube.com/watch?v=EoaDgUgS6QA
-TIPS
-https://github.com/lutfumertceylan/top25-parameter/blob/master/xss-parameters.txt
-
-
-9.	Template Injection
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-https://gosecure.github.io/template-injection-workshop/#0
-https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68
-https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
-
-
-
-https://github.com/ngalongc/bug-bounty-reference#xssi
-10.	SQL Injection
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-https://github.com/ngalongc/bug-bounty-reference#sql-injection
-https://www.bugbountyhunter.com/vulnerability/?type=sql
-https://github.com/lutfumertceylan/top25-parameter/blob/master/SQLi-parameters.txt
- 
-
-
-11.	Server Side Request Forgery
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-https://github.com/ngalongc/bug-bounty-reference#server-side-request-forgery-ssrf
-https://www.bugbountyhunter.com/vulnerability/?type=ssrf
-https://github.com/bugcrowd/bugcrowd_university/blob/master/Server%20Side%20Request%20Forgery/Bugcrowd%20University%20-%20Server%20Side%20Request%20Forgery.pdf
-https://www.bugcrowd.com/resources/webinars/server-side-request-forgery/
-https://github.com/lutfumertceylan/top25-parameter/blob/master/ssrf-parameters.txt
-https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/
-https://infosecwriteups.com/my-first-bug-blind-ssrf-through-profile-picture-upload-72f00fd27bc6
-
-
-12.	XML External Entity Vulnerability
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-https://github.com/ngalongc/bug-bounty-reference#xxe
-https://github.com/bugcrowd/bugcrowd_university/blob/master/XML%20External%20Entity%20Injection/Bugcrowd%20University%20-%20XML%20External%20Entity%20Injection.pdf
-https://www.bugcrowd.com/resources/webinars/xml-external-entity-injection/
-https://gosecure.github.io/xxe-workshop/#0
-https://blog.detectify.com/2018/04/17/owasp-top-10-xxe/
-
-
-13.	Remote Code Execution
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-https://github.com/lutfumertceylan/top25-parameter/blob/master/rce-paramaters-get-based.txt
-
-https://github.com/ngalongc/bug-bounty-reference#remote-code-execution
-14.	Memory
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-15.	Sub Domain Takeover
-Definición
-https://www.youtube.com/watch?v=q_A8aXLO1gA
-https://www.hackerone.com/blog/Guide-Subdomain-Takeovers
-
-
-Write UP
-¿Comó encontrarla?
-
-https://github.com/ngalongc/bug-bounty-reference#email-related
-TIPS
-
-
-16.	Race Conditions
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-
-https://github.com/ngalongc/bug-bounty-reference#race-condition
-17.	Insecure Direct Object References
-Definicion
-Write UP
-¿Comó encontrarla?
-https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/
-https://www.youtube.com/watch?v=3K1-a7dnA60
-https://blog.detectify.com/2019/07/03/lerhan-bypassing-idor-protection-with-url-shorteners/
-https://www.bugbountyhunter.com/vulnerability/?type=idor
-https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
-https://blog.usejournal.com/a-less-known-attack-vector-second-order-idor-attacks-14468009781a
-
-https://github.com/ngalongc/bug-bounty-reference#direct-object-reference-idor
-
-https://github.com/bugcrowd/bugcrowd_university/blob/master/Access_control_testing/Bugcrowd%20University%20-%20Broken%20Access%20Control%20Testing.pdf
-
-https://www.bugcrowd.com/resources/webinars/broken-access-control-testing/
-https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor/
-
-https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/
-https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab
-https://www.securecoding.com/blog/how-to-prevent-idor-attacks/
-
-TIPS
-
-
-18.	authentication-bypass
-Definicion
-Write UP
-¿Comó encontrarla?
-
-https://github.com/ngalongc/bug-bounty-reference#authentication-bypass
-https://book.hacktricks.xyz/pentesting-web/2fa-bypass
- 
-
-TIPS
-
-19.	OAuth
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-20.	Application Logic Vulnerabilities
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-21.	Stealing Access Token
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-
-
-https://github.com/ngalongc/bug-bounty-reference#stealing-access-token
-
-22.	File Upload
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-
-
-https://github.com/ngalongc/bug-bounty-reference#unrestricted-file-upload
-
-23.	Business Logic Flaw
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-https://blog.detectify.com/2020/07/08/common-security-misconfigurations-and-remediations/
-
-
-https://github.com/ngalongc/bug-bounty-reference#business-logic-flaw
-
-24.	Broken Access Control Testing
-Definicion
-Write UP
-¿Comó encontrarla?
-TIPS
-
-
-
-25.	Sensitive Data Exposure
-Definición
-
-Write UP
-¿Comó encontrarla?
-https://www.youtube.com/watch?v=l0YsEk_59fQ
-
-https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
-https://github.com/bugcrowd/bugcrowd_university/blob/master/GitHub%20Recon/Bugcrowd%20University%20-%20GitHub%20Recon%20and%20Sensitive%20Data%20Exposure.pdf
-https://www.bugcrowd.com/resources/webinars/github-recon-and-sensitive-data-exposure/
-https://www.youtube.com/watch?v=W5htGHdIc-M
-TIPS
- 
-
-
-26.	CORS
-Definición
-Write UP
-¿Comó encontrarla?
-
-TIPS
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
-https://book.hacktricks.xyz/pentesting-web/cors-bypass
-https://blog.detectify.com/2018/04/26/cors-misconfigurations-explained/
-https://httptoolkit.tech/will-it-cors/
-https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor/
-
+VULNS
+  API
+    https://github.com/inonshk/31-days-of-API-Security-Tips
+    https://github.com/Traceableai/31-days-of-pentesting
+    https://www.bugcrowd.com/resources/webinars/bad-api-hapi-hackers/
+    https://blog.assetnote.io/2021/04/05/contextual-content-discovery/
+    https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/
+    https://www.bugcrowd.com/resources/webinars/api-security-testing-for-hackers/
+    https://github.com/arainho/awesome-api-security
+    https://github.com/dsopas/MindAPI
+    https://dsopas.github.io/MindAPI/play/
+    https://github.com/HolyBugx/HolyTips/blob/main/Checklist/API%20Security.md
+    https://www.youtube.com/watch?v=hNs8fpWfcyU
+    https://community.turgensec.com/finding-hidden-api-keys-how-to-use-them/
+    https://github.com/streaak/keyhacks#AWS-Access-Key-ID-and-Secret
+    https://googlekey.blindf.com/
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/API%20Key%20Leaks
+    https://pentestbook.six2dez.com/enumeration/webservices/apis
+    https://github.com/KathanP19/HowToHunt/blob/master/API_Testing/Hidden_API_Functionality_Exposure.md
+    https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Web.md#api
+    https://www.bugbountytips.tech/?s=API
+    https://github.com/lanmaster53/recon-ng-marketplace/wiki/API-Keys
+    https://gitlab.com/pentest-tools/API-Security-Checklist/-/blob/master/README.md
+  CSP
+    https://portswigger.net/research/bypassing-csp-with-policy-injection
+  CSRF
+    https://www.youtube.com/watch?v=9eIUfCXyRgE
+    https://www.blackhat.com/presentations/bh-usa-06/BH-US-06-Gallagher.pdf
+  CORS
+    https://owasp.org/www-pdf-archive/GOD17-CORS.pdf
+    https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/11-Client_Side_Testing/07-Testing_Cross_Origin_Resource_Sharing
+    https://www.exploit-db.com/docs/english/45906-cors-attacks.pdf
+    https://developer.mozilla.org/es/docs/Web/HTTP/CORS
+    https://www.bedefended.com/papers/cors-security-guide
+    https://owasp.org/www-pdf-archive/GOD17-CORS.pdf
+  CLOUD
+    CS
+      https://pentestbook.six2dez.com/enumeration/cloud
+      https://hackingthe.cloud/
+      https://cloudsecwiki.com/index.html
+      https://github.com/dafthack/CloudPentestCheatsheets
+    AWS
+      https://infosecwriteups.com/deep-dive-into-aws-penetration-testing-a99192a26898
+      https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/AWS%20Amazon%20Bucket%20S3/README.md
+      https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md
+      https://github.com/amalmurali47/onaws
+      https://twitter.com/iamthefrogy/status/1364528706233004034
+      https://published-prd.lanyonevents.com/published/rsaus18/sessionsFiles/8876/CSV-R12-Red-Team-vs-Blue-Team-on-AWS.pdf
+      https://github.com/notsosecure/cloud-sec-wiki/blob/gh-pages/pages/mydoc/aws_cloud.md
+      https://hackingprofessional.github.io/Security/AWS-PENTEST/
+      https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/
+      https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/
+      https://www.virtuesecurity.com/aws-penetration-testing-part-1-s3-buckets/
+      https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/
+      https://hackingthe.cloud/aws/
+      https://d36cz9buwru1tt.cloudfront.net/AWS-Auditing-Whitepaper.pdf
+      https://application.security/free/kontra-aws-clould-top-10
+      https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/
+      https://rhinosecuritylabs.com/
+      https://www.virtuesecurity.com/aws-penetration-testing-part-1-s3-buckets/
+      https://www.virtuesecurity.com/aws-penetration-testing-part-2-s3-iam-ec2/
+      https://labs.f-secure.com/blog/misadventures-in-aws
+      https://blog.appsecco.com/hacker-days-understanding-aws-cloud-attacks-using-cloudgoat-owasp-bay-area-cdeb39006e12
+      https://blog.appsecco.com/exploiting-weak-configurations-in-amazon-cognito-in-aws-471ce761963
+      https://aws.amazon.com/es/security/penetration-testing/
+      WriteUps
+        https://infosecwriteups.com/leaking-aws-metadata-f5bc8de03284
+        https://virdoexhunter.medium.com/misconfigured-s3-bucket-leads-to-sensitive-data-exposure-no-super-controls-f47e26b586c6
+        https://infosecwriteups.com/from-aws-s3-misconfiguration-to-sensitive-data-exposure-784f37a30bf9
+        https://pravinponnusamy.medium.com/bug-hunting-aws-s3-bucket-public-read-write-permissions-enabled-477cc246e60e
+        https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40
+      https://github.com/PacktPublishing/Hands-On-AWS-Penetration-Testing-with-Kali-Linux
+      https://terrorgum.com/tfox/books/handsonawspenetrationtestingwithkalilinux.pdf
+      https://github.com/VirtueSecurity/aws-extender
+      https://gist.github.com/kmcquade/33860a617e651104d243c324ddf7992a
+      https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-aws-lab-1/
+      https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need/
+    Azure
+      https://dirkjanm.io/assets/raw/TR19-Im%20in%20your%20cloud.pdf
+      https://dl.packetstormsecurity.net/papers/general/azure-pentest.pdf
+      https://labs.f-secure.com/assets/BlogFiles/mwri-a-penetration-testers-guide-to-the-azure-cloud-v1.2.pdf
+      https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md
+      https://rhinosecuritylabs.com/cloud-security/common-azure-security-vulnerabilities/
+      https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability/
+      https://github.com/Kyuu-Ji/Awesome-Azure-Pentest
+    GGP
+      https://cloud.google.com/architecture/owasp-top-ten-mitigation?hl=es-419
+    Trainings
+      https://github.com/ramiKahmed/Cloud-Penetration-Testing-and-Red-Teaming
+      https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
+    LinkInteresante
+      https://owasp.org/www-project-cloud-native-application-security-top-10/
+      https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Kubernetes
+      https://github.com/iknowjason/AriaCloud
+      https://www.rishabhsoft.com/blog/cloud-application-security-best-practices
+      https://www.blackhillsinfosec.com/wp-content/uploads/2020/05/Breaching-the-Cloud-Perimeter-Slides.pdf
+      https://www.youtube.com/watch?v=AR5aLszXA2E
+      https://media.defcon.org/DEF%20CON%2028/DEF%20CON%20Safe%20Mode%20presentations/DEF%20CON%20Safe%20Mode%20-%20Sean%20Metcalf%20-%20Hacking%20the%20Hybrid%20Cloud.pdf
+      https://www.detectx.com.au/aws-penetration-testing-and-dfir/
+      https://github.com/OWASP/DVSA
+      https://www.hackerone.com/application-security/hackerone-joins-aws-marketplace-cloud-vulnerabilities-rise
+      https://www.youtube.com/watch?v=e8wLad4lQMk
+      https://www.youtube.com/watch?v=RDB8HH0DbZw
+      https://www.youtube.com/watch?v=u_3cV0pzptY&t=0s
+      https://www.youtube.com/watch?v=ffBcIkjumBc
+      https://www.youtube.com/watch?v=W5htGHdIc-M
+  LDAP
+    https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/LDAP%20Injection%20and%20Blind%20LDAP%20Injection.pdf
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection
+    https://book.hacktricks.xyz/pentesting-web/ldap-injection
+  MFA
+    https://research.nccgroup.com/2021/06/10/testing-two-factor-authentication/
+    https://medium.com/@iSecMax/two-factor-authentication-security-testing-and-possible-bypasses-f65650412b35
+    https://portswigger.net/web-security/authentication/multi-factor
+  MongoDB
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection
+  FileUpload
+    https://owasp.org/www-community/vulnerabilities/Unrestricted_File_Upload
+    https://docs.google.com/presentation/d/1-YwXl9rhzSvvqVvE_bMZo2ab-0O5wRNTnzoihB9x6jI/edit#slide=id.ga2ef157b83_0_156
+    https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf
+    https://docs.google.com/presentation/d/1-YwXl9rhzSvvqVvE_bMZo2ab-0O5wRNTnzoihB9x6jI/edit#slide=id.gadc4522267_0_277
+  SSO/SAML
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SAML%20Injection
+    https://github.com/harsh-bothra/learn365/blob/main/days/day3.md
+    https://www.youtube.com/watch?v=j9ALEIO3BSo
+    https://www.youtube.com/watch?v=Zjrty05REoc
+    https://www.youtube.com/watch?v=ObxxXU8GRMI
+    https://portswigger.net/daily-swig/vulnerabilities-in-single-sign-on-services-could-be-abused-to-bypass-authentication-controls
+    https://joonas.fi/2021/08/saml-is-insecure-by-design/
+    https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
+    https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/
+    https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/
+    https://research.nccgroup.com/2021/03/29/saml-xml-injection/
+    https://www.programmersought.com/article/83357765056/
+    https://github.com/ZenGo-X/saml-demo
+    https://biblus.us.es/bibing/proyectos/abreproy/11147/fichero/Memoria%252F04+-+El+est%C3%A1ndar+SAML.pdf+
+    https://www.google.com/search?q=VulnerableSAMLApp&client=firefox-b-d&sxsrf=ALeKk00z0KZzlr7cUJ7jcgkL8tWf54owlA:1629651345724&ei=kYEiYcLLK6zlgwfe8of4CA&start=10&sa=N&ved=2ahUKEwiC2MasjMXyAhWs8uAKHV75AY8Q8NMDegQIARA9&biw=923&bih=966
+  SQLI
+    https://book.hacktricks.xyz/pentesting-web/sql-injection
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection#authentication-bypass
+    https://websec.files.wordpress.com/2010/11/sqli2.pdf
+    https://sqlwiki.netspi.com/injectionTypes/unionBased/#mysql)%C2%A0
+    https://portswigger.net/web-security/sql-injection/cheat-sheet
+  SSRF
+    https://www.bugbountytips.tech/category/ssrf/
+    https://www.bugbountyhunter.com/vulnerability/?type=ssrf
+    https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery
+    https://github.com/jdonsec/AllThingsSSRF
+    https://www.youtube.com/watch?v=8t5-A4ASTIU
+    https://www.youtube.com/watch?v=voTHFdL9S2k
+    https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+    https://www.youtube.com/watch?v=D1S-G8rJrEk
+    https://www.youtube.com/watch?v=o-tL9ULF0KI
+    https://www.youtube.com/watch?v=m4BxIf9PUx0
+    https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/07-Input_Validation_Testing/19-Testing_for_Server-Side_Request_Forgery.html
+    https://www.youtube.com/watch?v=4kLcblAuQlw
+    https://github.com/KathanP19/HowToHunt/tree/master/SSRF
+    https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit
+    https://www.agarri.fr/docs/AppSecEU15-Server_side_browsing_considered_harmful.pdf
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
+    https://drive.google.com/file/d/1vlMDSIyo14gGmvEgG77k3rB6ddapAClP/view
+    https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
+    https://goteleport.com/blog/ssrf-attacks/
+    https://www.agarri.fr/blog/
+    https://cobalt.io/blog/from-ssrf-to-port-scanner
+    https://docs.google.com/presentation/d/1vlMDSIyo14gGmvEgG77k3rB6ddapAClP/edit#slide=id.p11
+    https://highon.coffee/blog/ssrf-cheat-sheet/
+    https://medium.com/swlh/ssrf-in-the-wild-e2c598900434
+    https://github.com/OlivierLaflamme/Auditing-Vulnerabilities/tree/master/SSRF
+    https://gowsundar.gitbook.io/book-of-bugbounty-tips/ssrf
+    https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202
+    https://logicbomb.medium.com/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82
+    https://dant0x65.medium.com/bug-bounty-tip-automating-ssrf-ea344ec59962
+  SSTI
+    file:///C:/Users/VALVERDE/AppData/Local/Temp/serversidetemplateinjection.pdf
+    https://portswigger.net/web-security/server-side-template-injection
+    https://www.youtube.com/watch?v=3cT0uE7Y87s
+    https://portswigger.net/research/server-side-template-injection
+    https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/07-Input_Validation_Testing/18-Testing_for_Server-side_Template_Injection.html
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection
+    https://github.com/epinna/tplmap
+    https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
+    https://www.youtube.com/watch?v=jRiz8Yg9vbA
+    https://www.youtube.com/watch?v=I7xQZOvZzIw
+    https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68
+  Serilization
+    https://infosecwriteups.com/understanding-identifying-insecure-deserialization-vulnerabilities-f7fac5414bb3
+    https://portswigger.net/web-security/deserialization
+    https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html
+    https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Alvaro-Munoz-JSON-attacks.pdf
+    https://www.youtube.com/watch?v=NqHsaVhlxAQ
+    https://thehackerish.com/insecure-deserialization-explained-with-examples/
+    https://insomniasec.com/cdn-assets/Deserialization_-__What_Could_Go_Wrong.pdf
+    https://davidhamann.de/2020/04/05/exploiting-python-pickle/
+    https://www.youtube.com/watch?v=Y0QxwRyqlh8
+    https://media.rootcon.org/ROOTCON%2010/Talks/ROOTCON%2010%20-%20Remote%20Code%20Execution%20via%20Java%20Native%20Deserialization.pdf
+    https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet#xmlencoder-xml
+    https://book.hacktricks.xyz/pentesting-web/deserialization
+    https://web.archive.org/web/20131016234737/http://blog.diniscruz.com/2013/08/using-xmldecoder-to-execute-server-side.html
+    https://www.exploit-db.com/docs/english/44756-deserialization-vulnerability.pdf
+  RCE
+    https://corneacristian.medium.com/top-25-rce-bug-bounty-reports-bc9555cca7bc
+    https://twitter.com/Alra3ees/status/1087717418057809920
+  Race Condition
+    https://www.veracode.com/security/race-condition
+    https://pravinponnusamy.medium.com/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43
+    https://book.hacktricks.xyz/pentesting-web/race-condition
+  Reverse Proxies & Inconsistency
+    https://2018.zeronights.ru/wp-content/uploads/materials/20-Reverse-proxies-Inconsistency.pdf
+    https://www.youtube.com/watch?app=desktop&v=ZfKuOdbQt2c
+    ReverseProxy\Path Traversal|Normalization
+      https://www.nginx.com/resources/glossary/reverse-proxy-server/
+      https://www.cloudflare.com/es-es/learning/cdn/glossary/reverse-proxy/
+      file:///C:/Users/Valverde/AppData/Local/Temp/crackingthelens-whitepaper.pdf
+      https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf
+      https://blackfire.io/docs/up-and-running/reverse-proxies
+    https://github.com/GrrrDog/weird_proxies
+  php-type-juggling-vuln
+    https://medium.com/swlh/php-type-juggling-vulnerabilities-3e28c4ed5c09
+    https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf
+    https://www.netsparker.com/blog/web-security/php-type-juggling-vulnerabilities/
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Type%20Juggling
+  Prototype Pollution 
+    https://zeronights.ru/en/news-en/web-village-talks-part-3/
+  HTTP HOST Header
+    https://www.exploit-db.com/docs/49792
+    https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/17-Testing_for_Host_Header_Injection
+    https://infosecwriteups.com/identifying-escalating-http-host-header-injection-attacks-7586d0ff2c67
+    https://medium.com/techiepedia/5-ways-to-test-password-reset-function-78edf77cac5a
+    https://gupta-bless.medium.com/exploiting-host-header-injection-5554fef7e25
+    https://medium.com/infosec/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2
+    https://medium.com/@briskinfosec/host-header-attack-bc9e1e0ee297
+    https://infosecwriteups.com/fun-with-header-and-forget-password-with-a-twist-af095b426fb2
+    http://claudijd.github.io/2018/02/01/2018-host-header-injections-what-are-they-good-for/
+  HTTP Parameter Pollution
+    https://adamsvoboda.net/http-parameter-pollution/
+    https://dl.packetstormsecurity.net/papers/general/whitepaper_httpresponse.pdf
+  HTML Injection
+    https://medium.com/bugbountywriteup/identifying-escalating-http-host-header-injection-attacks-7586d0ff2c67
+  HTTP Request Smuggling
+    https://medium.com/nerd-for-tech/http-request-smuggling-part-1-concepts-b89bfe17b210
+    https://medium.com/nerd-for-tech/http-request-smuggling-part-2-tl-ce-exploit-ec1171a88459
+    https://snyk.io/blog/demystifying-http-request-smuggling/
+    https://www.youtube.com/watch?v=3tpnuzFLU8g
+    https://drive.google.com/file/d/1iC0972G4meFPGTmqfs8g61qat7ZYLQgf/view
+    https://i.blackhat.com/USA-20/Wednesday/us-20-Klein-HTTP-Request-Smuggling-In-2020-New-Variants-New-Defenses-And-New-Challenges.pdf
+    https://cobalt.io/blog/a-pentesters-guide-to-http-request-smuggling
+    https://book.hacktricks.xyz/pentesting-web/http-request-smuggling
+    https://lab.wallarm.com/http2smugl-http2-request-smuggling-security-testing-tool/
+    https://www.google.com/search?client=firefox-b-d&q=HTTP+request+Smuggling+hackerone&sa=X&ved=2ahUKEwiWyvzEqpnyAhV17OAKHYR8A40Q1QIwE3oECBkQAQ
+    https://medium.com/@knownsec404team/protocol-layer-attack-http-request-smuggling-cc654535b6f
+    https://twitter.com/spidersec/status/1200413390339887104
+    https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn
+    https://honoki.net/2020/02/18/http-request-smuggling-5-practical-tips/
+    WriteUps
+      https://hackerone.com/reports/498052
+      https://www.kitploit.com/2019/09/http-request-smuggler-extension-for.html?amp=0
+      https://medium.com/cyberverse/earn-bounty-with-http-request-smuggling-attack-c68b4f2db363
+      https://hipotermia.pw/bb/http-desync-account-takeover
+      https://hackerone.com/reports/771666
+      https://ricardoiramar.medium.com/the-powerful-http-request-smuggling-af208fafa142
+      https://hackerone.com/reports/715996
+      https://portswigger.net/bappstore/aaaa60ef945341e8a450217a54a11646
+      https://github.com/defparam/smuggler
+      https://infosecwriteups.com/exploiting-http-request-smuggling-te-cl-xss-to-website-takeover-c0fc634a661b
+    https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/URI-hex.txt
+    https://www.youtube.com/watch?v=suxDcYViwao
+    https://drive.google.com/file/d/1sbcq-f670wbnARIlJcSA_wGAWqUNcI5I/view
+    https://github.com/neex/http2smugl
+  H2C Smuggling
+    https://blog.assetnote.io/2021/03/18/h2c-smuggling/
+    https://labs.bishopfox.com/tech-blog/h2c-smuggling-request-smuggling-via-http/2-cleartext-h2c
+    https://lab.wallarm.com/http2smugl-http2-request-smuggling-security-testing-tool/
+  GraphQL
+    https://www.youtube.com/watch?v=JJmufWfVvyU
+    https://graphql-dashboard.herokuapp.com/
+    https://book.hacktricks.xyz/pentesting/pentesting-web/graphql
+    https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/GraphQL%20Injection/README.md
+    https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/
+    https://www.youtube.com/watch?v=jyjGneKJynk
+    https://github.com/APIs-guru/graphql-voyager
+    https://infosecwriteups.com/hacking-graphql-for-fun-and-profit-part-1-understanding-graphql-basics-72bb3dd22efa
+    https://busk3r.medium.com/hacking-graphql-for-fun-and-profit-part-2-methodology-and-examples-5992093bcc24
+    https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
+    https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/12-API_Testing/01-Testing_GraphQL.html
+    https://graphql.org/learn/
+    https://www.slideshare.net/davidecioccia/avoiding-graphql-insecurities-with-owasp-skf-owasp-hu-meetup
+    https://blog.assetnote.io/2021/08/29/exploiting-graphql/
+  OAuth
+    https://infosecwriteups.com/oauth-2-0-hacking-simplified-part-2-vulnerabilities-and-mitigation-d01dd6d5fa2c
+    https://medium.com/a-bugz-life/the-wondeful-world-of-oauth-bug-bounty-edition-af3073b354c1
+    https://github.com/daffainfo/AllAboutBugBounty/blob/master/OAuth%20Misconfiguration.md
+    https://github.com/HolyBugx/HolyTips/blob/main/Checklist/OAuth.md
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth
+    https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover
+    https://securityhubs.io/oauth2_threat_model.html
+    https://portswigger.net/web-security/oauth
+    file:///C:/Users/VALVERDE/AppData/Local/Temp/48495-oauth-2.0-implementation-and-security---paper.pdf
+    https://docs.google.com/presentation/d/1eu_b8jqrjr0OeetbrNHWPy9KCh8J1GEjuA4CeiRWokI/edit#slide=id.gab3bc91319_0_158
+    https://tools.ietf.org/id/draft-ietf-oauth-security-topics-15.html#name-credential-leakage-via-refe
+    https://raw.githubusercontent.com/HolyBugx/HolyTips/main/Checklist/OAuth.pdf
+  OpenRedirect
+    https://adamsvoboda.net/open-redirects/
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect
+  JWT
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/JSON%20Web%20Token
+    https://jwt.io/
+    https://www.youtube.com/watch?v=VA1g7YV8HkI
+    https://www.youtube.com/watch?v=wt3UixCiPfo
+    https://www.slideshare.net/snyff/jwt-insecurity
+    https://www.youtube.com/watch?v=zWVRHK3ykfo
+    https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens
+    https://github.com/ticarpi/jwt_tool/wiki/Attack-Methodology
+    https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/
+    https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf
+    https://pentestbook.six2dez.com/enumeration/webservices/jwt#attacks
+    Que es?
+      https://www.bbva.com/es/json-web-tokens-jwt-claves-para-usarlos-de-manera-segura/
+      https://www.youtube.com/watch?v=x5gLL8-M9Fo
+      https://tools.ietf.org/html/rfc7515#appendix-C
+    https://owasp.org/www-pdf-archive//20190222--Nyffenegger-JWAT.pdf
+  JS
+    https://www.youtube.com/watch?v=7qyKZOjhg94
+  Os Injection
+    https://portswigger.net/web-security/os-command-injection
+  XXE
+    https://www.exploit-db.com/docs/english/45374-xml-external-entity-injection---explanation-and-exploitation.pdf
+    https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection
+    https://i.blackhat.com/us-18/Thu-August-9/us-18-Ludwig-Identity-Theft-Attacks-On-SSO-Systems.pdf
+  XSS
+    https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/README.md
+    https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms
+    https://github.com/s0md3v/AwesomeXSS
+    https://raw.githubusercontent.com/s0md3v/AwesomeXSS/master/Database/jackmasa-mind-map.png
+    https://owasp.org/www-community/xss-filter-evasion-cheatsheet
+    https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#restricted-characters
+    https://netsec.expert/posts/xss-in-2021/
+    https://tomnomnom.com/talks/dc151-dom-xss.pdf
+    https://drive.google.com/file/d/1foNrQ2HHXmhfFn4uHQhZ3j0bGWph6R_H/view
+    https://portswigger.net/web-security/cross-site-scripting/dom-based
+    https://www.browserling.com/
+    https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/
+    https://github.com/denysdovhan/wtfjs
+    https://blog.isec.pl/waf-evasion-techniques/
+    https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309
+    https://xsser.03c8.net/xsser/XSS_for_fun_and_profit_SCG09_(spanish).pdf
+    https://github.com/s0md3v/AwesomeXSS
+    https://blog.bentkowski.info/2014/09/in-this-post-ill-explain-to-you.html
+  Web cache poisoning
+    https://github.com/PortSwigger/param-miner
+    https://blog.detectify.com/2020/07/28/do-you-trust-your-cache-web-cache-poisoning-explained/
+    https://portswigger.net/research/practical-web-cache-poisoning
+    https://i.blackhat.com/us-18/Thu-August-9/us-18-Kettle-Practical-Web-Cache-Poisoning-Redefining-Unexploitable.pdf
+    https://poison.digi.ninja/
+    https://medium.com/@shilpybanerjee/all-about-the-web-caches-404097dc9be8
+    https://www.youtube.com/watch?v=j2RrmNxJZ5c
+    https://www.youtube.com/watch?v=bDxYWGxuVqE&t=30s
+    https://i.blackhat.com/us-18/Thu-August-9/us-18-Kettle-Practical-Web-Cache-Poisoning-Redefining-Unexploitable.pdf
+    https://book.hacktricks.xyz/pentesting-web/cache-deception
+    https://blog.melbadry9.xyz/fuzzing/nuclei-cache-poisoning
+    https://0xn3va.gitbook.io/cheat-sheets/web-application/web-cache-poisoning
+    https://hideandsec.sh/books/web-03c/page/cache-poisoning
+    https://github.com/daffainfo/AllAboutBugBounty/blob/master/Web%20Cache%20Poisoning.md
+    https://github.com/HolyBugx/HolyTips/blob/main/Middlewares/Middlewares.md
+    https://www.acunetix.com/blog/web-security-zone/cache-poisoning-dos-attack-techniques/
+  Web Cache Deception
+    https://www.blackhat.com/docs/us-17/wednesday/us-17-Gil-Web-Cache-Deception-Attack.pdf
+    https://portswigger.net/daily-swig/path-confusion-web-cache-deception-threatens-user-information-online
+    https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html?m=1
+    https://www.youtube.com/watch?v=czDfMWBsIKw
+    https://blog.cloudflare.com/understanding-our-cache-and-the-web-cache-deception-attack/
+    https://blogs.akamai.com/2017/03/on-web-cache-deception-attacks.html
+    https://portswigger.net/bappstore/7c1ca94a61474d9e897d307c858d52f0
+    https://book.hacktricks.xyz/pentesting-web/cache-deception
+    https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Cache%20Deception
+    https://github.com/harsh-bothra/learn365/blob/main/days/day16.md
+    https://blog.cloudflare.com/understanding-our-cache-and-the-web-cache-deception-attack/
+  WAF Evasion
+    https://github.com/SergioValverde/awesome-web-security#waf
+    https://blog.isec.pl/waf-evasion-techniques/
+    https://www.youtube.com/watch?v=tSf_IXfuzXk
+    https://www.google.com/search?client=firefox-b-d&q=WAF+Bypass+Techniques+-+Using+HTTP+Standard+and+Web+Servers%E2%80%99+Behaviour
+  https://www.exploit-db.com/docs/49968
 
 
 
