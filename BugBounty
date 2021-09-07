@@ -339,7 +339,7 @@ VULNS
     ReverseProxy\Path Traversal|Normalization
       https://www.nginx.com/resources/glossary/reverse-proxy-server/
       https://www.cloudflare.com/es-es/learning/cdn/glossary/reverse-proxy/
-      file:///C:/Users/Valverde/AppData/Local/Temp/crackingthelens-whitepaper.pdf
+      crackingthelens-whitepaper.pdf
       https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf
       https://blackfire.io/docs/up-and-running/reverse-proxies
     https://github.com/GrrrDog/weird_proxies
@@ -423,7 +423,7 @@ VULNS
     https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover
     https://securityhubs.io/oauth2_threat_model.html
     https://portswigger.net/web-security/oauth
-    file:///C:/Users/VALVERDE/AppData/Local/Temp/48495-oauth-2.0-implementation-and-security---paper.pdf
+    48495-oauth-2.0-implementation-and-security---paper.pdf
     https://docs.google.com/presentation/d/1eu_b8jqrjr0OeetbrNHWPy9KCh8J1GEjuA4CeiRWokI/edit#slide=id.gab3bc91319_0_158
     https://tools.ietf.org/id/draft-ietf-oauth-security-topics-15.html#name-credential-leakage-via-refe
     https://raw.githubusercontent.com/HolyBugx/HolyTips/main/Checklist/OAuth.pdf
