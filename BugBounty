@@ -300,7 +300,7 @@ VULNS
     https://logicbomb.medium.com/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82
     https://dant0x65.medium.com/bug-bounty-tip-automating-ssrf-ea344ec59962
   SSTI
-    file:///C:/Users/VALVERDE/AppData/Local/Temp/serversidetemplateinjection.pdf
+    
     https://portswigger.net/web-security/server-side-template-injection
     https://www.youtube.com/watch?v=3cT0uE7Y87s
     https://portswigger.net/research/server-side-template-injection
